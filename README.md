@@ -1,24 +1,5 @@
-# 💸 Django Expense Tracker
+This is a personal expense tracker web application built using Django. It helps users record and view their daily spending. The purpose of this project was to learn and practice Django fundamentals, including working with models, forms, templates, and basic CRUD functionality in a real-world scenario.
 
-This is a personal expense tracker web app built using Django. It helps users record and view their daily spending. The goal of the project was to learn Django fundamentals, work with forms and models, and practice CRUD functionality in a real-world context.
+The main features include the ability to add expenses with fields for date, category, amount, and description. All expenses are displayed in a styled table layout. The data is stored locally using SQLite. Form validation is handled using Django Forms, and the app layout is styled with basic custom CSS.
 
----
-
-## ✨ Features
-
-- ✅ Add expenses with date, category, amount, and description  
-- ✅ View all expenses in a styled, responsive table  
-- ✅ Data stored in a local SQLite database  
-- ✅ Built with Django Forms for validation  
-- ✅ Basic layout with custom CSS  
-
----
-
-## 🛠️ Technologies Used
-
-- Django (Python)
-- SQLite
-- HTML5 & CSS3
-- Git + GitHub
-- PyCharm Community Edition
-
+Technologies used in this project include Django (Python), SQLite for the database, HTML5 and CSS3 for the front-end, and Git + GitHub for version control. The entire project was developed using PyCharm Community Edition.
